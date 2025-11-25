@@ -1,0 +1,2 @@
+javac -cp ".;flatlaf-3.1.jar;mysql-connector-j-9.3.0.jar" SmartMedicineApp.java
+java -cp ".;flatlaf-3.1.jar;mysql-connector-j-9.3.0.jar" SmartMedicineApp
