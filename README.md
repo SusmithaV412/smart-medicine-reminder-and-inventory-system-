@@ -131,26 +131,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Susmitha V**
-- GitHub: [@SusmithaV412](https://github.com/SusmithaV412)
-- LinkedIn: [susmitha-vijayakumar-174a76355](https://linkedin.com/in/susmitha-vijayakumar-174a76355)
-- Email: susmitha.vcsc@gmail.com
-
-## 🙏 Acknowledgments
-
-- Thanks to the Java Swing community for excellent documentation
-- MySQL team for robust database solutions
-- All contributors who helped improve this project
-
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the existing issues on GitHub
-2. Create a new issue with detailed description
-3. Contact the author directly
-
----
-
 ⭐ **If you found this project helpful, please give it a star!** ⭐
